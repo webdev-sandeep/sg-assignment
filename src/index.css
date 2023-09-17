@@ -590,7 +590,7 @@ ul {
     flex-direction: column;
     font-size: clamp(1rem, 2.5vw, 1.3rem);
     gap: 1rem;
-    width: 10%;
+    width: 15%;
     overflow-x: hidden;
   }
 
@@ -600,7 +600,7 @@ ul {
 
   .product-carousel {
     margin-top: 0;
-    width: 90%;
+    width: 85%;
     overflow-x: hidden;
   }
 
